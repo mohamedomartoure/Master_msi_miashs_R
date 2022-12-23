@@ -1,0 +1,29 @@
+{
+    "id": "9D7365BD",
+    "path": "~/Mes_Dossiers/Atelier_R/R_Initialisation/R_Initialisation.R",
+    "project_path": "R_Initialisation.R",
+    "type": "r_source",
+    "hash": "649139726",
+    "contents": "",
+    "dirty": false,
+    "created": 1669462225326.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "431,40",
+        "scrollLine": "417",
+        "docOutlineVisible": "0",
+        "ignored_words": "controle,arithmetiques,Partie,logiciel,au,traitement,données,statistique,elle,sera,affichée,operateurs,logiques,Fonctions,dans,Standardisation,Centrer,reduire,donnees,Nominale,ecart\n"
+    },
+    "folds": "3|39|25|2|\n26|29|45|2|\n46|48|73|2|\n74|48|121|0|\n122|26|170|6|\n174|34|185|2|\n186|27|202|6|\n203|42|234|6|\n235|35|326|0|\n327|42|399|4|\n400|48|401|0|\n",
+    "lastKnownWriteTime": 1670964582,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1670964582888,
+    "read_only": false,
+    "read_only_alternatives": []
+}
